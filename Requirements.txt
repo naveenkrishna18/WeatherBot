@@ -1,0 +1,9 @@
+-> Python 3 or above
+-> Python Packages 
+    - tweepy
+    - telnetlib
+    - requests
+    - json
+
+-> API keys and access tokens from twitter developer site
+-> API key of the openweather API
